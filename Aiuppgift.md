@@ -1,0 +1,70 @@
+### Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
+
+Sammanfattningen lyder: 
+Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram med etik och mänskliga aspekter i fokus. Det omfattar riskbaserad strategi, förbud mot vissa AI-användningar, transparens, mänsklig tillsyn, dataskydd och främjande av ansvarsfull AI-utveckling. Det inkluderar också AI-definition, en europeisk AI-styrelse och sanktioner för överträdelser. Förslaget förhandlas, och ingen ikraftträdandetidpunkt är klar.
+
+### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem?
+
+Automatisk identifiering av problem:
+- Bildanalys: AI kan analysera bilder och videor från kameror på fordon, gatubelysning, och drönare för att identifiera potthål,        sprickor, och andra skador.
+- Sensorer: Sensorer kan installeras i vägar för att mäta vibrationer, temperatur, och andra faktorer som kan indikera problem.
+- Dataanalys: AI kan analysera data från olika källor, inklusive trafikrapporter, väderdata, och underhållshistorik, för att identifiera mönster och förutsäga var problem är mest troliga att uppstå.
+
+Optimering av underhållsprocessen:
+- Prediktivt underhåll: AI kan användas för att förutse när underhåll behövs, vilket gör det möjligt att planera och utföra underhållsarbete mer effektivt.
+- Resursallokering: AI kan optimera hur resurser allokeras, till exempel genom att skicka rätt besättning med rätt utrustning till rätt plats.
+- Automatisk rapportering: AI kan automatiskt generera rapporter om problem och underhållsarbete, vilket sparar tid och resurser.
+
+### Hantering av AI Act:
+
+***Legala hinder:**
+
+- AI Act innehåller krav på dataskydd, transparens, och ansvarsskyldighet. Det är viktigt att säkerställa att AI-lösningen följer dessa krav.
+- Det kan finnas utmaningar med att få tillgång till data från olika källor, till exempel trafikrapporter och väderdata.
+
+***Bemöta hinder:**
+
+- Samarbeta med relevanta aktörer, till exempel dataskyddsmyndigheten och leverantörer av AI-teknik, för att säkerställa att AI-lösningen följer alla krav.
+- Utveckla tydliga och transparenta processer för datainsamling och användning.
+- Implementera robusta säkerhetsåtgärder för att skydda data.
+
+***Gråzoner och risker:**
+
+- Det finns en risk för att AI-lösningen kan vara partisk och diskriminerande. Det är viktigt att testa och validera AI-lösningen noggrant för att minimera denna risk.
+- Det finns en risk för att AI-lösningen kan missbrukas. Det är viktigt att implementera lämpliga skyddsåtgärder för att förhindra detta.
+
+***Hantera gråzoner och risker:**
+
+- Utveckla etiska riktlinjer för användning av AI i underhåll av vägnät.
+- Involvera berörda parter, till exempel invånare och intresseorganisationer, i processen att utveckla och implementera AI-lösningen.
+- Etablera en tydlig process för att hantera klagomål och incidenter.
+
+***Automatisk identifiering av snötäcke och behovet av snöröjning:**
+
+- Sensorer: Sensorer kan installeras på fordon, gatubelysning, och andra infrastrukturella objekt för att mäta snödjup, temperatur, och andra faktorer som indikerar behovet av snöröjning.
+- Kameror: Kameror kan användas för att identifiera områden med snötäcke och spåra hur snöförhållandena förändras över tid.
+- Dataanalys: AI kan analysera data från sensorer, kameror, och väderprognoser för att identifiera områden där snöröjning är mest akut.
+
+***Optimering av snöröjningsrutter:**
+
+- Prediktiva modeller: AI kan användas för att förutsäga var och när snöfall kommer att ske, vilket gör det möjligt att planera snöröjningsrutter mer effektivt.
+- Realtidstrafikdata: AI kan använda realtidstrafikdata för att optimera snöröjningsrutter och undvika trafikstockningar.
+- Resursallokering: AI kan optimera hur resurser allokeras, till exempel genom att skicka rätt fordon med rätt utrustning till rätt plats.
+
+***Automatisk rapportering:**
+
+- AI kan automatiskt generera rapporter om snöröjningsarbete, inklusive information om snödjup, plogade vägar, och använda resurser.
+- Dessa rapporter kan användas för att förbättra underhållsplanering och spåra effektiviteten av snöröjningsinsatser.
+
+***Fördelar med att använda AI för snöröjning:**
+
+- Effektivitet: AI kan bidra till att snöröjning blir mer effektiv genom att optimera rutter, allokera resurser, och prioritera områden med störst behov.
+- Säkerhet: AI kan bidra till att förbättra säkerheten på vägarna genom att identifiera och prioritera snöröjning av farliga områden, till exempel backar och kurvor.
+- Miljöpåverkan: AI kan bidra till att minska miljöpåverkan av snöröjning genom att optimera rutter och minska saltförbrukningen.
+
+***Utmaningar med att använda AI för snöröjning:**
+
+- Datakvalitet: Kvaliteten på data från sensorer och kameror är avgörande för att AI-lösningen ska fungera effektivt.
+- Kostnad: Implementering av en AI-lösning för snöröjning kan vara kostsamt.
+- Etiska frågor: Det är viktigt att säkerställa att AI-lösningen inte används på ett sätt som diskriminerar vissa områden eller invånare.
+
