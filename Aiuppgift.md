@@ -68,9 +68,7 @@ Optimering av underhållsprocessen:
 - Kostnad: Implementering av en AI-lösning för snöröjning kan vara kostsamt.
 - Etiska frågor: Det är viktigt att säkerställa att AI-lösningen inte används på ett sätt som diskriminerar vissa områden eller invånare.
 
-### Personlig medicinering. Vården har idag utmaningar med att många mediciner skickas ut i onödan och i för stor kvantitet. Hur kan AI assistera med att hjälpa varje individ till rätt medicinering? Vilken data behöver vi? Vilka risker finns det för den personliga integriteten?
-Uppgiften liknar den innan, men har ett annat fokus. Du kan utgå från samma grundtänk, men nu ännu mer fokus på personlig data (integritet). 
-[03] 
+### Personlig medicinering. Vården har idag utmaningar med att många mediciner skickas ut i onödan och i för stor kvantitet. Hur kan AI assistera med att hjälpa varje individ till rätt medicinering? Vilken data behöver vi? Vilka risker finns det för den personliga integriteten? [03]
 
 ***Utmaningar med befintlig vård:**
 
