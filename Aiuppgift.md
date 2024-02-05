@@ -1,9 +1,9 @@
-###Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
+### Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
 
 Sammanfattningen lyder: 
 Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram med etik och mänskliga aspekter i fokus. Det omfattar riskbaserad strategi, förbud mot vissa AI-användningar, transparens, mänsklig tillsyn, dataskydd och främjande av ansvarsfull AI-utveckling. Det inkluderar också AI-definition, en europeisk AI-styrelse och sanktioner för överträdelser. Förslaget förhandlas, och ingen ikraftträdandetidpunkt är klar.
 
-[02]### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem?
+### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem?
 
 Automatisk identifiering av problem:
 - Bildanalys: AI kan analysera bilder och videor från kameror på fordon, gatubelysning, och drönare för att identifiera potthål,        sprickor, och andra skador.
