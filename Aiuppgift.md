@@ -1,4 +1,4 @@
-[01]### Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
+###Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
 
 Sammanfattningen lyder: 
 Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram med etik och mänskliga aspekter i fokus. Det omfattar riskbaserad strategi, förbud mot vissa AI-användningar, transparens, mänsklig tillsyn, dataskydd och främjande av ansvarsfull AI-utveckling. Det inkluderar också AI-definition, en europeisk AI-styrelse och sanktioner för överträdelser. Förslaget förhandlas, och ingen ikraftträdandetidpunkt är klar.
