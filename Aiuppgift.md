@@ -1,9 +1,9 @@
-### Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
+[01]### Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
 
 Sammanfattningen lyder: 
 Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram med etik och mänskliga aspekter i fokus. Det omfattar riskbaserad strategi, förbud mot vissa AI-användningar, transparens, mänsklig tillsyn, dataskydd och främjande av ansvarsfull AI-utveckling. Det inkluderar också AI-definition, en europeisk AI-styrelse och sanktioner för överträdelser. Förslaget förhandlas, och ingen ikraftträdandetidpunkt är klar.
 
-### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem?
+[02]### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem?
 
 Automatisk identifiering av problem:
 - Bildanalys: AI kan analysera bilder och videor från kameror på fordon, gatubelysning, och drönare för att identifiera potthål,        sprickor, och andra skador.
@@ -39,7 +39,7 @@ Optimering av underhållsprocessen:
 - Involvera berörda parter, till exempel invånare och intresseorganisationer, i processen att utveckla och implementera AI-lösningen.
 - Etablera en tydlig process för att hantera klagomål och incidenter.
 
-***Automatisk identifiering av snötäcke och behovet av snöröjning:**
+[02x]***Automatisk identifiering av snötäcke och behovet av snöröjning:**
 
 - Sensorer: Sensorer kan installeras på fordon, gatubelysning, och andra infrastrukturella objekt för att mäta snödjup, temperatur, och andra faktorer som indikerar behovet av snöröjning.
 - Kameror: Kameror kan användas för att identifiera områden med snötäcke och spåra hur snöförhållandena förändras över tid.
@@ -68,3 +68,40 @@ Optimering av underhållsprocessen:
 - Kostnad: Implementering av en AI-lösning för snöröjning kan vara kostsamt.
 - Etiska frågor: Det är viktigt att säkerställa att AI-lösningen inte används på ett sätt som diskriminerar vissa områden eller invånare.
 
+[03###Personlig medicinering. Vården har idag utmaningar med att många mediciner skickas ut i onödan och i för stor kvantitet. Hur kan AI assistera med att hjälpa varje individ till rätt medicinering? Vilken data behöver vi? Vilka risker finns det för den personliga integriteten?
+Uppgiften liknar den innan, men har ett annat fokus. Du kan utgå från samma grundtänk, men nu ännu mer fokus på personlig data (integritet).
+
+***Utmaningar med befintlig vård:**
+
+- Onödig medicinering: Slöseri med resurser: ca 20% av läkemedel i Sverige används felaktigt, vilket kostar samhället miljarder kronor årligen.
+- Risk för biverkningar: Felaktig medicinering kan leda till allvarliga biverkningar, i vissa fall med dödlig utgång.
+- Feldosering: Suboptimal effekt: Läkemedlet kan vara ineffektivt och sjukdomen kan förvärras. Risk för biverkningar: För hög dos kan leda till biverkningar, ibland med allvarliga konsekvenser.
+- Bristande individualisering: Medicinering baseras på genomsnittliga data: Behandlingar är inte optimerade för individuella behov, vilket kan leda till suboptimala resultat.
+  Svårt att ta hänsyn till komplexa faktorer: Olika individer reagerar olika på samma läkemedel, vilket beror på en kombination av genetiska, kliniska och livsstilsfaktorer.
+
+***Hur kan AI assistera?**
+
+***Analys av individuella data:**
+- Genetisk data (genomik): Identifiera genetiska varianter som påverkar läkemedelsmetabolism, biverkningsrisk och sjukdomsförlopp.
+- Kliniska data (sjukdomshistoria, labbsvar): Analysera tidigare sjukdomar, allergier, läkemedelsreaktioner och andra relevanta faktorer. Livsstilsfaktorer (kost, motion, miljö): Inkludera information om kost, motion, rökning, alkoholvanor och exponering för miljöföroreningar.
+- Prediktion av läkemedelsrespons: Identifiera optimalt läkemedel och dos: Förutsäga vilket läkemedel och dos som är mest effektivt och säkert för varje individ.
+- Förutsäga risken för biverkningar: Identifiera individer med ökad risk för specifika biverkningar och anpassa behandlingen för att minimera risken.
+- Utveckling av nya läkemedel: AI kan designa nya läkemedel: Utveckla nya läkemedel med högre precision och färre biverkningar.
+- Personliga läkemedel: Skapa personliga läkemedel baserat på individuella behov.
+
+***Databehov:**
+- Genetisk data: Genomsekvensering av individen.
+- Klinisk data: Journaler, labbsvar, diagnoser, läkemedelshistorik.
+- Livsstilsfaktorer: Data från sensorer, appar, enkäter, patientrapporterade utfall (PRO).
+
+***Risker för den personliga integriteten:**
+
+- Datainsamling och lagring: Risk för missbruk och dataläckage, kränkning av den personliga integriteten och diskriminering.
+- Samtycke och kontroll över data: Individen måste ha fullständig kontroll över sin data och hur den används.
+- Diskriminering och stigmatisering: Risk att genetisk information missbrukas av försäkringsbolag, arbetsgivare eller andra aktörer.
+
+***Etiska och juridiska frågor:**
+
+- Dataskydd och säkerhet: Strikta regler för datahantering, kryptering och anonymisering krävs.
+- Rättvisa och tillgänglighet: Personlig medicinering ska vara tillgänglig för alla, oavsett socioekonomisk bakgrund eller geografisk plats.
+- Transparens och ansvarsutkrävande: AI-system ska vara transparenta och granskade av oberoende experter.
