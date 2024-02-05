@@ -104,3 +104,44 @@ Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram me
 - Dataskydd och säkerhet: Strikta regler för datahantering, kryptering och anonymisering krävs.
 - Rättvisa och tillgänglighet: Personlig medicinering ska vara tillgänglig för alla, oavsett socioekonomisk bakgrund eller geografisk plats.
 - Transparens och ansvarsutkrävande: AI-system ska vara transparenta och granskade av oberoende experter.
+
+
+***Brist på bostäder och svårigheter att få bolån:**
+
+- Den svenska bostadsmarknaden präglas av en brist på bostäder, speciellt i storstadsregionerna.
+- Samtidigt har bankerna skärpt sina krav för att bevilja bolån, vilket gör det svårare för många att få sitt drömboende.
+
+***Hur kan AI assistera?**
+
+***Förbättrad riskbedömning:**
+- AI kan analysera en bredare uppsättning data för att få en mer nyanserad bild av låntagarens ekonomiska situation.
+- Detta kan inkludera data om anställningsstabilitet, inkomstutveckling, och sparande.
+- AI kan också identifiera mönster i data som inte är synliga för det mänskliga ögat, vilket kan leda till bättre riskbedömningar.
+
+***Automatisering av processer:**
+- AI kan automatisera repetitiva uppgifter som kreditkontroller och insamling av dokument.
+- Detta kan frigöra tid för bankpersonalen att fokusera på mer komplexa frågor och kundservice.
+
+***Utveckling av nya bolåneprodukter:**
+- AI kan användas för att utveckla nya bolåneprodukter som är anpassade till individuella behov.
+- Detta kan inkludera bolån med längre löptid, amorteringsfria år eller lägre ränta för låntagare med god kreditvärdighet.
+
+***Problem och risker:**
+
+***Dataintegritet och bias:**
+- Det är viktigt att säkerställa att AI-modeller baseras på korrekt och opartisk data.
+- Felaktig data kan leda till diskriminering av vissa låntagargrupper.
+
+***Transparens och förklarlighet:**
+- Det är viktigt att låntagare kan förstå hur AI-modeller används för att fatta beslut om bolån.
+- Bankerna behöver kunna förklara hur AI-modellerna fungerar och hur de påverkar lånebeslut.
+
+***Etiska frågor:**
+- Det är viktigt att använda AI på ett etiskt och ansvarsfullt sätt.
+- Bankerna behöver ha tydliga riktlinjer för hur AI används i bolåneprocessen.
+
+***Exempel på AI-lösningar:**
+
+- Lendo: En digital plattform som använder AI för att matcha låntagare med rätt bank och bolåneprodukt.
+- SBAB: Använder AI för att automatisera kreditkontroller och bedöma låntagares riskprofil.
+- Avanza: Erbjuder bolån med individuell ränta baserad på låntagarens riskprofil.
