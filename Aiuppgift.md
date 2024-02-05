@@ -1,9 +1,9 @@
-[01] ### Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning.
+### Sammanfatta vad AI ACT är, varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning. [01] 
 
 Sammanfattningen lyder: 
 Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram med etik och mänskliga aspekter i fokus. Det omfattar riskbaserad strategi, förbud mot vissa AI-användningar, transparens, mänsklig tillsyn, dataskydd och främjande av ansvarsfull AI-utveckling. Det inkluderar också AI-definition, en europeisk AI-styrelse och sanktioner för överträdelser. Förslaget förhandlas, och ingen ikraftträdandetidpunkt är klar.
 
-[02} ### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem?
+### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem? [02} 
 
 Automatisk identifiering av problem:
 - Bildanalys: AI kan analysera bilder och videor från kameror på fordon, gatubelysning, och drönare för att identifiera potthål,        sprickor, och andra skador.
@@ -39,7 +39,7 @@ Optimering av underhållsprocessen:
 - Involvera berörda parter, till exempel invånare och intresseorganisationer, i processen att utveckla och implementera AI-lösningen.
 - Etablera en tydlig process för att hantera klagomål och incidenter.
 
-[02x] ### Automatisk identifiering av snötäcke och behovet av snöröjning
+### Automatisk identifiering av snötäcke och behovet av snöröjning [02x] 
 
 - Sensorer: Sensorer kan installeras på fordon, gatubelysning, och andra infrastrukturella objekt för att mäta snödjup, temperatur, och andra faktorer som indikerar behovet av snöröjning.
 - Kameror: Kameror kan användas för att identifiera områden med snötäcke och spåra hur snöförhållandena förändras över tid.
@@ -68,8 +68,9 @@ Optimering av underhållsprocessen:
 - Kostnad: Implementering av en AI-lösning för snöröjning kan vara kostsamt.
 - Etiska frågor: Det är viktigt att säkerställa att AI-lösningen inte används på ett sätt som diskriminerar vissa områden eller invånare.
 
-[03] ### Personlig medicinering. Vården har idag utmaningar med att många mediciner skickas ut i onödan och i för stor kvantitet. Hur kan AI assistera med att hjälpa varje individ till rätt medicinering? Vilken data behöver vi? Vilka risker finns det för den personliga integriteten?
-Uppgiften liknar den innan, men har ett annat fokus. Du kan utgå från samma grundtänk, men nu ännu mer fokus på personlig data (integritet).
+### Personlig medicinering. Vården har idag utmaningar med att många mediciner skickas ut i onödan och i för stor kvantitet. Hur kan AI assistera med att hjälpa varje individ till rätt medicinering? Vilken data behöver vi? Vilka risker finns det för den personliga integriteten?
+Uppgiften liknar den innan, men har ett annat fokus. Du kan utgå från samma grundtänk, men nu ännu mer fokus på personlig data (integritet). 
+[03] 
 
 ***Utmaningar med befintlig vård:**
 
