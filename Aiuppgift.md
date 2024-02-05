@@ -105,8 +105,7 @@ Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram me
 - Rättvisa och tillgänglighet: Personlig medicinering ska vara tillgänglig för alla, oavsett socioekonomisk bakgrund eller geografisk plats.
 - Transparens och ansvarsutkrävande: AI-system ska vara transparenta och granskade av oberoende experter.
 
-### Bankens bolån. Vi har brist på bostäder och det är svårt att bli godkänd för ett bolån. Hur kan en AI lösning assistera med att fler personer får rätt bolån?
-Tänk fritt och brett. Hur kan AI användas och vilka problem, risker ser ni behöver hanteras? [04]
+### Bankens bolån. Vi har brist på bostäder och det är svårt att bli godkänd för ett bolån. Hur kan en AI lösning assistera med att fler personer får rätt bolån? Tänk fritt och brett. Hur kan AI användas och vilka problem, risker ser ni behöver hanteras? [04]
 
 ***Brist på bostäder och svårigheter att få bolån:**
 
