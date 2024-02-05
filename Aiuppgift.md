@@ -5,12 +5,12 @@ Europeiska kommissionens förslag om AI-regler syftar till en enhetlig EU-ram me
 
 ### Stockholms stad har ett vägnät som behöver underhåll. Det rapporteras in potthål, skador på vägen mm av invånarna. Från att det rapporteras in (om man ens vet hur man gör det) tar det ca 3 år innan kommunen kan planera in en åtgärd. Ofta är svårigheten att veta exakt var problemet är och få tag på rätt resurser som kan åtgärd (laga) på ett effektivt sätt. Hur kan du via AI ta fram en lösning på detta problem? Hur kommer lösningen kunna hantera AI Act, finns det legala hinder, hur bemöter vi dem? Finns det gråzoner, risker? Hur hanterar vi dem? [02} 
 
-Automatisk identifiering av problem:
-- Bildanalys: AI kan analysera bilder och videor från kameror på fordon, gatubelysning, och drönare för att identifiera potthål,        sprickor, och andra skador.
+***Automatisk identifiering av problem:**
+- Bildanalys: AI kan analysera bilder och videor från kameror på fordon, gatubelysning, och drönare för att identifiera potthål, sprickor, och andra skador.
 - Sensorer: Sensorer kan installeras i vägar för att mäta vibrationer, temperatur, och andra faktorer som kan indikera problem.
 - Dataanalys: AI kan analysera data från olika källor, inklusive trafikrapporter, väderdata, och underhållshistorik, för att identifiera mönster och förutsäga var problem är mest troliga att uppstå.
 
-Optimering av underhållsprocessen:
+***Optimering av underhållsprocessen:**
 - Prediktivt underhåll: AI kan användas för att förutse när underhåll behövs, vilket gör det möjligt att planera och utföra underhållsarbete mer effektivt.
 - Resursallokering: AI kan optimera hur resurser allokeras, till exempel genom att skicka rätt besättning med rätt utrustning till rätt plats.
 - Automatisk rapportering: AI kan automatiskt generera rapporter om problem och underhållsarbete, vilket sparar tid och resurser.
